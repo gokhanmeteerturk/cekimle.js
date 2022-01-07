@@ -1,3 +1,12 @@
+/*
+ * MIT License
+ * Copyright (c) Gökhan Mete ERTÜRK - me@e-mete.com
+ * gokhanmeteerturk
+ * 2019-04-21
+ *
+ * Adds properties to the string prototype for enhanced turkish support.
+ */
+
 const sesliler = ["a", "e", "i", "i", "o", "ö", "u", "ü"];
 const sertler = {
     "p": "b",
